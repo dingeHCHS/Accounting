@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": -3.1341785481178057,
           "pitch": 0.06296414345017354,
           "title": "Colonel's Corner Bank",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1G5TRYeBV_7hSpihfdzPMEB-otryxt-L3/preview" width="640" height="480"></iframe>'
         }
       ]
     }
